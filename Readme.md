@@ -1,0 +1,2 @@
+Create a Fashion Event Management website which should display the upcoming fashion event with data and location. It should also display the fashion designers involved.
+*Please create the template first and then convert it to html
